@@ -17,4 +17,5 @@ echo "encode = ".$en;
 echo "<hr>";
 $dn = dcrypt($en,$salt);
 echo "decode = ".$dn;
+ankur
  ?>

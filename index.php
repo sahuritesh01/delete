@@ -1,5 +1,5 @@
 <?php 
-
+ritesh
 // $str = "hello";
 // $en = utf8_encode($str);
 // echo "encode = ".$en;
@@ -7,6 +7,7 @@
 // $dn = utf8_decode($en);
 // echo "decode = ".$dn;
  ?>
+
 <?php
 
 $str = "hello";

@@ -1,5 +1,6 @@
 <?php 
 ritesh 01
+
 // $str = "hello";
 // $en = utf8_encode($str);
 // echo "encode = ".$en;
@@ -18,5 +19,8 @@ echo "encode = ".$en;
 echo "<hr>";
 $dn = dcrypt($en,$salt);
 echo "decode = ".$dn;
-ankur 01
+
+
+ankur 02
+
  ?>
